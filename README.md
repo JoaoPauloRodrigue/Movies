@@ -2,7 +2,7 @@
 
 # Introdução
 
-Desenvolvi uma API para um serviço de locação de filmes, proporcionando funcionalidades essenciais, como criação, listagem, atualização e exclusão de filmes. Utilizando tecnologias como Node.js, express, e PostgreSQL
+Desenvolvi uma API para um serviço de locação de filmes, proporcionando funcionalidades essenciais, como criação, listagem, atualização e exclusão de filmes. Utilizando tecnologias como TypeScript, express, e PostgreSQL.
 
 # Regras da entrega
 
