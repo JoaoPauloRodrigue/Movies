@@ -2,11 +2,7 @@
 
 # Introdução
 
-Há alguns dias você recebeu uma demanda para elaborar a API de um serviço de locação de filmes. Porém a forma com que você executou e as ferramentas que utilizou não agradaram o nosso cliente... É... ele é exigente.
-
-Portanto, agora você precisará reescrever esse projeto com outras tecnologias. Além disso o cliente adicionou algumas novas regras de negócio ao projeto.
-
-Bora para esse desafio?!
+Desenvolvi uma API para um serviço de locação de filmes, proporcionando funcionalidades essenciais, como criação, listagem, atualização e exclusão de filmes. Utilizando tecnologias como Node.js, express, e PostgreSQL
 
 # Regras da entrega
 
